@@ -1,4 +1,4 @@
-Beyond Energy and Society 190 C
+After Energy and Society 190 C
 ================
 January 13, 2019
 
@@ -39,8 +39,8 @@ There's a lot else out there - additions to this list are very welcome! (please 
     -   Approximately monthly events on a range of topics
     
 -   [SF Python talks and project nights](https://www.meetup.com/sfpython/)
-    -   Monthly talks (with up to a hundred or more people) and weekly project nights, where I've heard there are experienced python folks who are really happy to help out newcommers
-    -   Monthly talks also host lightning talks
+    -   Popular monthly talks (with up to a hundred or more people), also hosts shorter lightning talks
+    -   Weekly project nights, where I've heard there are experienced python folks who are really happy to help out newcommers
     
 -   Two annual regional python conferences: 
     - [PyBay](https://pybay.com/) (August), and 
@@ -62,11 +62,12 @@ Two more annual conferences that also have student scholarships:
     -   also has a volunteer program, which is a great way to meet people
 -   [SciPy](https://www.scipy2019.scipy.org/)
     -   NextJuly 2019, in Austin TX
-    -   Personal note: I had the good fortune to attend SciPy thanks to a scholarship, and the folks I met, including people who turned out to be on the Jupyter core development team at UC Berkeley, were really welcoming
+    -   Personal note: I had the good fortune to attend SciPy 2017 thanks to a scholarship, and the folks I met, including people who turned out to be on the Jupyter development team at UC Berkeley, were really welcoming!
 
-#### Remote!
+#### Online/remote!
 
--   [PyLadies Remote](https://remote.pyladies.com/index.html) - hosts online tutorials open to everyone
+- Lots of python community on Twitter - check out folks like @python_tip, @wesmckinn (created pandas), @WillingCarol (python for education, CPython core developer), and @ProjectJupyter :)  
+- [PyLadies Remote](https://remote.pyladies.com/index.html) - hosts online tutorials open to everyone
 
 #### Other useful online resources
 
